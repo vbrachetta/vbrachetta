@@ -4,6 +4,7 @@
 University of Birmingham, UK
 
 [![University of Birmingham](https://img.shields.io/badge/University_of_Birmingham-Research_Fellow-003087?style=flat-square)](https://www.birmingham.ac.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vincenzo_Brachetta-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vincenzobrachetta)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3553--0163-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0009-0008-3553-0163)
 [![Medium](https://img.shields.io/badge/Medium-@vincenzo.brachetta-000000?style=flat-square&logo=medium)](https://medium.com/@vincenzo.brachetta)
 
