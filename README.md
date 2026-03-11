@@ -12,7 +12,7 @@ University of Birmingham, UK
 
 ## About
 
-I am a researcher and computational scientist at the [University of Birmingham](https://www.birmingham.ac.uk), one of the leading research-intensive universities in the world and a member of the Russell Group. My work sits at the intersection of computational mechanics, materials science, and high-performance scientific computing.
+I am a researcher and computational scientist at the [University of Birmingham](https://www.birmingham.ac.uk), one of the leading research-intensive universities in the world and a member of the Russell Group.
 
 My research sits at the intersection of engineering and data science, with a focus on accelerating scientific discovery through high-performance computing, artificial intelligence, and large-scale data analysis. I develop scalable computational methods and open-source software tools designed to bring modern machine learning and big data capabilities to engineering and materials science workflows. I hold a Fellowship of the Higher Education Academy (FHEA) and am a member of the [Birmingham Environment for Academic Research (BEAR) Champions](https://www.birmingham.ac.uk/research/arc/bear/bear-champions) group.
 Alongside my primary research, I am an advocate for open-source software, reproducible research, and the adoption of GNU/Linux in academic environments.
