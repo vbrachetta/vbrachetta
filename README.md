@@ -33,7 +33,7 @@ Alongside my primary research, I am an advocate for open-source software, reprod
 
 **Languages** — Python · Julia · C · Fortran · x86 Assembly · Bash  
 **Python Frameworks** — NumPy · SciPy · scikit-learn · scikit-learn-extra · JAX/XLA  
-**Julia Frameworks** — Clustering · BenchmarkTools
+**Julia Frameworks** — Clustering · BenchmarkTools  
 **HPC Tools** — Slurm Workload Manager  
 **Infrastructure** — HPC clusters · TPU (v4, v6e) · Docker · Podman · Apptainer  
 **Other** — Finite element analysis · Phase-field modelling · Numerical linear algebra
