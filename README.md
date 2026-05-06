@@ -19,6 +19,16 @@ Alongside my primary research, I am an advocate for open-source software, reprod
 
 ---
 
+## Active Projects
+
+- **Google TPU Research Cloud — Accelerating Data-Intensive Research**  
+  Prototyping scalable clustering and data-intensive workflows on TPU using **JAX/XLA**, with an emphasis on performance, reproducibility, and portable research software.
+
+- **Open Data and Big Data in Wind Energy**  
+  Building scalable analytics pipelines for wind-energy datasets (*e.g.* performance monitoring, anomaly detection, and digital-twin concepts), using reproducible workflows and HPC/cloud resources.
+
+---
+
 ## Research Interests
 
 - **High-performance computing** — large-scale simulations on HPC clusters (BlueBEAR); accelerated computing on TPU hardware
