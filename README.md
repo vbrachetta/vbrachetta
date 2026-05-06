@@ -21,11 +21,11 @@ Alongside my primary research, I am an advocate for open-source software, reprod
 
 ## Research Interests
 
-- **Computational mechanics** — finite element analysis, phase-field fracture mechanics, elasticity, plasticity
-- **Materials processing** — residual stress prediction in additive manufacturing, martensitic phase transformations
 - **High-performance computing** — large-scale simulations on HPC clusters (BlueBEAR); accelerated computing on TPU hardware
 - **Scientific machine learning** — JAX-based numerical methods for materials science
 - **Research software engineering** — development of open-source Python/JAX packages for the scientific community
+- **Computational mechanics** — finite element analysis, phase-field fracture mechanics, elasticity, plasticity
+- **Materials processing** — residual stress prediction in additive manufacturing, martensitic phase transformations
 
 ---
 
