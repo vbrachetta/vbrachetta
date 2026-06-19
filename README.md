@@ -21,11 +21,15 @@ Alongside my primary research, I am an advocate for open-source software, reprod
 
 ## Active Projects
 
-- **Google TPU Research Cloud — Accelerating Data-Intensive Research**  
-  Prototyping scalable clustering and data-intensive workflows on TPU using **JAX/XLA**, with an emphasis on performance, reproducibility, and portable research software.
-
 - **Advanced Modelling and Data Infrastructure for Wind Farm Monitoring**  
   Research project developing computational methods and data infrastructures for wind farm monitoring. Focus areas: synthetic SCADA data generation, mathematical modelling and simulation tools, and data processing for high-performance computing.
+
+---
+
+## Past Projects
+
+- **Accelerating Data-Intensive Research with Google TPU Infrastructure**  
+  This project leverages Google TPU accelerators through the TPU Research Cloud to develop scalable and reproducible workflows for data-intensive research. It demonstrates how advanced computing infrastructure can enable faster insights and support innovative outcomes across scientific domains.
 
 ---
 
