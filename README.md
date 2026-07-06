@@ -23,7 +23,7 @@ Alongside my primary research, I advocate for open-source software, reproducible
 ## Active Projects
 
 **Advanced Modelling and Data Infrastructure for Wind Farm Monitoring**  
-*[Start Date] – Present*  
+*Feb 2026 – Present*  
 Research project developing computational methods and data infrastructures for wind farm monitoring. Focus areas include synthetic SCADA data generation, mathematical modelling and simulation tools, and data processing pipelines for high-performance computing.
 
 ---
@@ -33,6 +33,8 @@ Research project developing computational methods and data infrastructures for w
 **Accelerating Data-Intensive Research with Google TPU Infrastructure**  
 *Feb 2026 – Jul 2026*  
 This project leveraged Google TPU accelerators through the TPU Research Cloud to develop scalable and reproducible workflows for data-intensive research. It demonstrated how advanced computing infrastructure can enable faster insights and support innovative outcomes across scientific domains.
+
+*Research outputs:* [`kmeans_tpu`](https://github.com/vbrachetta/kmeans_tpu) · [`julia-on-tpu`](https://github.com/vbrachetta/julia-on-tpu)
 
 ---
 
