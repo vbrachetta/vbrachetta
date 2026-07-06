@@ -12,24 +12,27 @@ University of Birmingham, UK
 
 ## About
 
-I am a researcher and computational scientist at the [University of Birmingham](https://www.birmingham.ac.uk), one of the leading research-intensive universities in the world and a member of the Russell Group.
+I am a researcher and computational scientist at the [University of Birmingham](https://www.birmingham.ac.uk), a leading research-intensive university and member of the Russell Group.
 
-My research sits at the intersection of engineering and data science, with a focus on accelerating scientific discovery through high-performance computing, artificial intelligence, and large-scale data analysis. I develop scalable computational methods and open-source software tools designed to bring modern machine learning and big data capabilities to engineering and materials science workflows. I hold a Fellowship of the Higher Education Academy (FHEA) and am a member of the [Birmingham Environment for Academic Research (BEAR) Champions](https://www.birmingham.ac.uk/research/arc/bear/bear-champions) group.
-Alongside my primary research, I am an advocate for open-source software, reproducible research, and the adoption of GNU/Linux in academic environments.
+My research sits at the intersection of engineering and data science, with a focus on accelerating scientific discovery through high-performance computing, artificial intelligence, and large-scale data analysis. I develop scalable computational methods and open-source software tools that bring modern machine learning and big data capabilities to engineering and materials science workflows. I hold a Fellowship of the Higher Education Academy (FHEA) and am a member of the [Birmingham Environment for Academic Research (BEAR) Champions](https://www.birmingham.ac.uk/research/arc/bear/bear-champions) group.
+
+Alongside my primary research, I advocate for open-source software, reproducible research, and the adoption of GNU/Linux in academic environments.
 
 ---
 
 ## Active Projects
 
-- **Advanced Modelling and Data Infrastructure for Wind Farm Monitoring**  
-  Research project developing computational methods and data infrastructures for wind farm monitoring. Focus areas: synthetic SCADA data generation, mathematical modelling and simulation tools, and data processing for high-performance computing.
+**Advanced Modelling and Data Infrastructure for Wind Farm Monitoring**  
+*[Start Date] – Present*  
+Research project developing computational methods and data infrastructures for wind farm monitoring. Focus areas include synthetic SCADA data generation, mathematical modelling and simulation tools, and data processing pipelines for high-performance computing.
 
 ---
 
 ## Past Projects
 
-- **Accelerating Data-Intensive Research with Google TPU Infrastructure**  
-  This project leverages Google TPU accelerators through the TPU Research Cloud to develop scalable and reproducible workflows for data-intensive research. It demonstrates how advanced computing infrastructure can enable faster insights and support innovative outcomes across scientific domains.
+**Accelerating Data-Intensive Research with Google TPU Infrastructure**  
+*Feb 2026 – Jul 2026*  
+This project leveraged Google TPU accelerators through the TPU Research Cloud to develop scalable and reproducible workflows for data-intensive research. It demonstrated how advanced computing infrastructure can enable faster insights and support innovative outcomes across scientific domains.
 
 ---
 
