@@ -12,7 +12,7 @@ University of Birmingham, UK
 
 ## About
 
-Research Fellow at the University of Birmingham [University of Birmingham](https://www.birmingham.ac.uk), working as a computational scientist at the intersection of engineering and data science, a leading research-intensive university and member of the Russell Group.
+Research Fellow at the [University of Birmingham](https://www.birmingham.ac.uk), a leading research-intensive university and member of the Russell Group, working as a computational scientist at the intersection of engineering and data science.
 
 My research sits at the intersection of engineering and data science, with a focus on accelerating scientific discovery through high-performance computing, artificial intelligence, and large-scale data analysis. I develop scalable computational methods and open-source software tools that bring modern machine learning and big data capabilities to engineering and materials science workflows. I hold a Fellowship of the Higher Education Academy (FHEA) and am a member of the [Birmingham Environment for Academic Research (BEAR) Champions](https://www.birmingham.ac.uk/research/arc/bear/bear-champions) group.
 
