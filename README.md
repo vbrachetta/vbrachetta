@@ -22,6 +22,10 @@ Alongside my primary research, I advocate for open-source software, reproducible
 
 ## Active Projects
 
+**Advanced Signal Processing and AI for Acoustic Emission**  
+*Oct 2026 – Present*  
+Research project developing advanced signal processing and AI methods for acoustic emission. Focus areas include synthetic data generation and AI-based approaches to signal analysis, detection, and alarm systems.
+
 **Advanced Modelling and Data Infrastructure for Wind Farm Monitoring**  
 *Feb 2026 – Present*  
 Research project developing computational methods and data infrastructures for wind farm monitoring. Focus areas include synthetic SCADA data generation, mathematical modelling and simulation tools, and data processing pipelines for high-performance computing.
